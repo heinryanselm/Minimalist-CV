@@ -46,35 +46,6 @@ export const RESUME_DATA = {
       description:
         "Lead product definition, launch, and long-term vision for initiatives across audiences of the marketplace, enabling the brand to reach consumers nationwide by developing locally relevant strategies. Entrusted by Senior Executives with leadership responsibility on high-impact, high visibility projects.",
     },
-    {
-      company: "influenceTHIS Canada",
-      link: "https://influencethis.ca/",
-      badges: ["Remote", "Part-time"],
-      title: "Web Developer",
-      start: "2018",
-      end: "2019",
-      description:
-        "Developed the UI and UX eco-system for a conference event platform using modular component structures with JS, SCSS, Gulp on Node.",
-    },
-    {
-      company: "Palimor Design Studios",
-      link: "https://influencethis.ca/",
-      badges: ["Remote", "Part-time"],
-      title: "Web Developer",
-      start: "2018",
-      end: "2019",
-      description:
-        "Managed 25+ web projects, implementing server deployment panel to reduce server management costs by 27%. Efficient management yielded cost and time savings, doubling client engagement through precise UX implementation over a 6-month period.",
-    },
-    {
-      company: "Upwork",
-      link: "https://tamalsen.dev/go/upwork",
-      badges: ["Freelance"],
-      title: "Top Rated Plus Web Developer",
-      start: "2017",
-      end: "Present",
-      description: "Top-Rated Plus developer on Upwork specializing in Front-end (React, WordPress) technologies with a 100% job success rate and client satisfaction rating (based on 150+ Jobs, 3500+ hours).",
-    },
   ],
   skills: [
     "JavaScript",
@@ -154,74 +125,6 @@ export const RESUME_DATA = {
       link: {
         label: "getyearprogress.com",
         href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      // logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
-      },
-    },
-    {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      // logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
-      },
-    },
-    {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for leading virtual mobile operator in Poland",
-      // logo: MobileVikingsLogo,
-      link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
-      },
-    },
-    {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
-      // logo: Howdy,
-      link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
-      },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      // logo: TastyCloudLogo,
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
       },
     },
     {
