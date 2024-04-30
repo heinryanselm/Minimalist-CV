@@ -84,17 +84,17 @@ export const RESUME_DATA = {
         href: "https://monito.dev/",
       },
     },
-    // {
-    //   title: "Jarocki.me",
-    //   techStack: ["Side Project", "Next.js", "MDX"],
-    //   description:
-    //     "My personal website and blog. Built with Next.js and Notion API",
-    //   // logo: JarockiMeLogo,
-    //   link: {
-    //     label: "github.com",
-    //     href: "https://jarocki.me/",
-    //   },
-    // },
+    {
+      title: "Honey Clicker",
+      techStack: ["Side Project", "TypeScript", "React.js", "MDX"],
+      description:
+        "Clicker game where you can earn points by clicking on a honey jar. ",
+      // logo: JarockiMeLogo,
+      link: {
+        label: "github.com",
+        href: "https://bee-clicker-main.vercel.app",
+      },
+    },
     {
       title: "Minimal",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
