@@ -10,7 +10,7 @@ export const RESUME_DATA = {
   summary:
     "Prolific software engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL.",
   avatarUrl: "https://avatars.githubusercontent.com/u/50972784?s=400&u=1b5e251a7df70e707b2674ba3df87943fc7c1654&v=4",
-  personalWebsiteUrl: "https://tamalsen.dev",
+  personalWebsiteUrl: "https://cv-ashy-nine.vercel.app",
   contact: {
     email: "heinryanselm@gmail.com",
     tel: "+44 7479821607",
@@ -84,17 +84,17 @@ export const RESUME_DATA = {
         href: "https://monito.dev/",
       },
     },
-    {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
-      description:
-        "My personal website and blog. Built with Next.js and Notion API",
-      // logo: JarockiMeLogo,
-      link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
-      },
-    },
+    // {
+    //   title: "Jarocki.me",
+    //   techStack: ["Side Project", "Next.js", "MDX"],
+    //   description:
+    //     "My personal website and blog. Built with Next.js and Notion API",
+    //   // logo: JarockiMeLogo,
+    //   link: {
+    //     label: "github.com",
+    //     href: "https://jarocki.me/",
+    //   },
+    // },
     {
       title: "Minimal",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
@@ -118,13 +118,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Year progress",
+      title: "Calend.LY",
       techStack: ["Side Project", "TypeScript", "Next.js"],
       description: "Tracks current year progress and displays a countdown",
       // logo: YearProgressLogo,
       link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
+        label: "calendly.com",
+        href: "https://calend-ly-heinryanselms-projects.vercel.app/",
       },
     },
     {
