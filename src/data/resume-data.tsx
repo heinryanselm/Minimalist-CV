@@ -2,7 +2,7 @@ import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Heinry-Anselm Urakpa",
-  initials: "HA",
+  initials: "HU",
   location: "Hull, England",
   locationLink: "https://www.google.com/maps/place/Hull,+England/@53.7446794,-0.3",
   about:
@@ -31,8 +31,8 @@ export const RESUME_DATA = {
     {
       school: "University of Ghana, Legon",
       degree: "Bachelor of Science in Computer Engineering",
-      start: "2016",
-      end: "2020",
+      // start: "2016",
+      // end: "2020",
     },
   ],
   work: [
