@@ -84,6 +84,21 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Weatheroard",
+      techStack: [
+        "Side Project",
+        "TypeScript",
+        "Partykit",
+      ],
+      description: "Weather multiplayer based leaderboard built on partykit",
+      // logo: ConsultlyLogo,
+      link: {
+        label: "Weatherboard",
+        href: "https://leaderboard.heinryanselm.partykit.dev/",
+      },
+    },
+
+    {
       title: "Monito",
       techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
       description:
@@ -135,6 +150,22 @@ export const RESUME_DATA = {
       link: {
         label: "calendly.com",
         href: "https://calend-ly-heinryanselms-projects.vercel.app/",
+      },
+    },
+    {
+      title: "Predictiva App",
+      techStack: [
+        "Coding Challenge",
+        "Dart",
+        "C++",
+        "C",
+        "Swift"
+      ],
+      description: "A simple mobile trading dashboard",
+      // logo: ConsultlyLogo,
+      link: {
+        label: "Predictiva App",
+        href: "https://github.com/heinryanselm/predictiva",
       },
     },
     {
