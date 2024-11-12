@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Senior Frontend Developer",
   summary:
     "Professional Googler & Senior Frontend Developer with a knack for piecing together the web one well-placed Stack Overflow thread at a time. With extensive experience in JavaScript, TypeScript, React, and Next.js, I’ve led projects that range from building seamless user interfaces to developing scalable web applications for high-impact solutions. My problem-solving method? Google first, coffee second. Whether it’s optimizing performance, mentoring junior developers, or delivering user-friendly designs, I’m all about crafting solutions that not only work but elevate the user experience (with a little search engine magic). I’m excited to bring my blend of frontend expertise, leadership, and humor to drive impactful, engaging digital experiences.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/50972784?s=400&u=1b5e251a7df70e707b2674ba3df87943fc7c1654&v=4",
+  avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGxIuGUaUWgbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731408312749?e=1736985600&v=beta&t=SNRHSCfnj_xICs5G2CpZNmWWW28Fj3RZ_WVPO-f_PhQ",
   personalWebsiteUrl: "https://cv-ashy-nine.vercel.app",
   contact: {
     email: "heinryanselm@gmail.com",
