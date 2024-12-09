@@ -100,7 +100,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Weatheroard",
+      title: "Weatherboard",
       techStack: [
         "Side Project",
         "TypeScript",
