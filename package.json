@@ -36,5 +36,10 @@
     "prettier-plugin-tailwindcss": "^0.5.9",
     "tailwindcss": "^3.4.0",
     "typescript": "^5"
-  }
+  },
+  "description": "Simple web app that renders my minimalist CV with print-friendly layout.",
+  "main": "next.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

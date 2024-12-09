@@ -67,6 +67,22 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Serverless AI Chatbot",
+      techStack: [
+        "Side Project",
+        "React + TypeScript",
+        "AWS Serverless (Lambda, API Gateway)",
+        "Amazon Cognito",
+        "OpenAI API",
+      ],
+      description: "A completely serverless approach - zero infrastructure management, automatic scaling, and pay-per-use pricing.",
+      // logo: ConsultlyLogo,
+      link: {
+        label: "view project repo",
+        href: "https://github.com/heinryanselm/serverless-chatbot",
+      },
+    },
+    {
       title: "Consultly",
       techStack: [
         "Side Project",
@@ -121,14 +137,14 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Expense Tracker",
+      techStack: ["Side Project", "MERN Stack", "jwt-authentication"],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
+        "A MERN stack application for tracking personal expenses.",
       // logo: Minimal,
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
+        label: "MERN Stack app",
+        href: "https://github.com/heinryanselm/ExpenseTracker",
       },
     },
     {
